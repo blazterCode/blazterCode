@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋,Me llaman Blazter</h1>
-<h3 align="center">Soy un desarrollador de software apasionado</h3>
+<h1 align="center">Hola 👋,hello, they call me Blazter</h1>
+<h3 align="center">I am a passionate software developer</h3>
 
 - 🌱 I’m currently learning **python**
 
