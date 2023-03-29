@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **blazter.code@gmail.com**
 
-- 📄 Know about my experiences [http://blaztercode.com/](http://blaztercode.com/)
+- 📄 Know about my experiences [http://blaztercode.com/](https://blaztercode.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
